@@ -1,1 +1,2 @@
-This is my feature_story. It has now ended.
+This is the beginning. This is my feature_story
+This is where the story ends!
